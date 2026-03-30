@@ -2,7 +2,7 @@
 K9K_DPF_Monitor   for Android
 # Nazwa Projektu
 
-Programpowstal z potrzeby  monitorowania stanu dpf w moim megane 4 2019  silnik K9K  872 blue
+Program powstal z potrzeby  monitorowania stanu dpf w moim megane 4 2019  silnik K9K  872 blue
 
 
 Techologia  KOTLIN
